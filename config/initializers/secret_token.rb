@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Bpblog::Application.config.secret_token = '8fc35d0460778dc622f0616396fc9d340307563c68189b9ee41a944017f3d5013aec956ec59e104fe525dc2c7b891b22120a7a24e4fc261d07541cf955466c49'
+Bpblog::Application.config.secret_token = 'c904cfca652040ee3b99788e74b8797a753cd75471e6f72f71afd6b2322718a8a5883c79b0a0dd81ec5dae0785d2f6f8070fc167c799719ce16428b32830d3d7'
